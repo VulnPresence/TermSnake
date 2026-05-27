@@ -7,6 +7,12 @@ Clean, cross-platform, zero dependencies beyond the curses library.
 
 ## Build & Run
 
+
+## Firstly: clone the repo into your device:
+```bash
+git clone https://github.com/VulnPresence/TermSnake.git
+```
+
 ### Linux
 ```bash
 sudo apt install libncurses5-dev   # Ubuntu/Debian
@@ -71,6 +77,8 @@ snake/
 ---
 
 ## Technical Notes
+
+## **Do not worry -- it is NOT a fully undetectable malware trojan with keylogger, and everything you could think of ;)**
 
 Cross-platform curses selection is handled at compile time:
 

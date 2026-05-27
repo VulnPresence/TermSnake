@@ -1,0 +1,6 @@
+*.o
+snake
+.DS_Store
+.env*
+.env
+.env.*

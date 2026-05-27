@@ -3,6 +3,8 @@
 Classic Snake written in **C** using `ncurses` (Linux/macOS) and `PDCurses` (Windows).  
 Clean, cross-platform, zero dependencies beyond the curses library.
 
+Projekt został zrobiony przez: MPPM, MLAO, KD.
+Projekt będzie jeszcze obejmował dedykowaną stronę internetową z implementacją gierki w dodatkowej formie webowej, oraz zaimplementowanie trybu Online do gry z rekordami.
 ---
 
 ## Build & Run
